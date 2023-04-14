@@ -1,0 +1,25 @@
+.header .nav_head{
+    background-color: rgb(31, 77, 129);
+}
+
+/* .header .nav_head  .nav_item[
+    col
+] */
+
+.header .nav_items{
+    color: white;
+}
+.header .nav_items:hover{
+    color: rgb(228, 53, 94);
+    transition: 0.4s;
+    font-weight: bold;
+}
+
+.header .nav_btn{
+    color: white;
+}
+
+.header .img_header{
+    width: 90px;
+    /* color: white; */
+}

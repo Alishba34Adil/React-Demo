@@ -1,0 +1,32 @@
+.banner .img_banner{
+    height: 500px;
+}
+
+.banner .caption{
+    color:  rgb(255, 255, 255);
+    text-align: center;
+    font-size: 35px;
+    
+}
+
+.banner .carousel-caption {
+    position: absolute;
+    right: 15%;
+    top: 40%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
+.banner .carousel-control-prev-icon, .carousel-control-next-icon, .carousel-indicators{
+    display: none;
+}
+
+.banner .Typewriter__wrapper{
+    font-size: 50px;
+    font-weight: bold;
+    color: yellow;
+}
